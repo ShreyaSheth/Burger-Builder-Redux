@@ -1,0 +1,23 @@
+.Order{
+    width: 80%;
+    border: 1px solid #eee;
+    box-shadow: 0 2px 3px #ccc;
+    padding: 10px;
+    margin: 10px auto;
+    box-sizing: border-box;
+}
+/* .Danger{
+    background-color: red;
+    outline: none;
+    cursor: pointer;
+    border: 1px solid #ed1838;
+    color: #966909;
+    font-family: inherit;
+    box-shadow: 2px 2px 2px #290a08;
+    border-radius: 2px;
+}
+.Danger:hover, .Danger:active {
+    background-color:red;
+    border: 1px solid #966909;
+    color: #966909;
+} */
